@@ -1,5 +1,5 @@
 # reportganteng
-Langsung gasss
+Report bot Fb menggunakan termux
 apt update && apt upgrade
 - pkg install python2
 - pkg install git
